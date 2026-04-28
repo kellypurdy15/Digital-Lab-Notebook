@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "Introduction to Human Biology Laboratory Workbook"
+  author: "George Mateja"
+  chapters:
+    - index.qmd
+    - chapter-01.qmd
+    - chapter-02.qmd
+    - chapter-03.qmd
+    - chapter-04.qmd
+    - chapter-05.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    
