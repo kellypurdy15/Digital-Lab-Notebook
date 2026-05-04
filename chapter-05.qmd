@@ -8,25 +8,25 @@ At the conclusion of this lab, you should be able to describe the structure and 
 
 ### Epidermal Layers (Superficial → Deep)
 
--    Stratum corneum
+-   Stratum corneum
 
--    Stratum lucidum (thick skin only)
+-   Stratum lucidum (thick skin only)
 
--    Stratum granulosum
+-   Stratum granulosum
 
--    Stratum spinosum
+-   Stratum spinosum
 
--    Stratum basale (germinativum)
+-   Stratum basale (germinativum)
 
 ### Dermal Layers
 
--    Papillary layer
+-   Papillary layer
 
--    Reticular layer
+-   Reticular layer
 
 ### Subcutaneous Layer
 
--    Hypodermis
+-   Hypodermis
 
 -   
 
@@ -80,21 +80,21 @@ At the conclusion of this lab, you should be able to describe the structure and 
 
 **Layers:**
 
--    4: Epidermis
+-   4: Epidermis
 
--    5: Dermis
+-   5: Dermis
 
--    6: Hypodermis
+-   6: Hypodermis
 
 **Accessory Structures:**
 
--    15: Hair follicle
+-   15: Hair follicle
 
--    21: Pacinian corpuscle
+-   21: Pacinian corpuscle
 
--    14: Sebaceous gland
+-   14: Sebaceous gland
 
--    20: Eccrine sweat gland
+-   20: Eccrine sweat gland
 
 ## Epidermal Layers and Function
 
@@ -110,19 +110,19 @@ At the conclusion of this lab, you should be able to describe the structure and 
 
 **Epidermis:**
 
--    Composed of keratinocytes
+-   Composed of keratinocytes
 
--    No blood vessels
+-   No blood vessels
 
--    Apical surface faces exterior
+-   Apical surface faces exterior
 
--    Basal surface attached to basement membrane
+-   Basal surface attached to basement membrane
 
 **Dermis:**
 
--    Contains blood vessels
+-   Contains blood vessels
 
--    Has dermal papillae
+-   Has dermal papillae
 
 ## Lab Activity 5.4
 
@@ -144,11 +144,11 @@ At the conclusion of this lab, you should be able to describe the structure and 
 
 ## Post Lab Activity 5.1
 
--    **Dermal layers:** Papillary and reticular
+-   **Dermal layers:** Papillary and reticular
 
--    **Three gland types:** Sebaceous (oil), eccrine (temperature), apocrine (scent)
+-   **Three gland types:** Sebaceous (oil), eccrine (temperature), apocrine (scent)
 
--    **Protective functions:** Barrier, UV protection, pathogen defense
+-   **Protective functions:** Barrier, UV protection, pathogen defense
 
 ## Post Lab Activity 5.2 – Matching
 
@@ -194,48 +194,48 @@ Stratified squamous epithelium
 
 **Five epidermal layers (thick skin):**
 
--    Stratum corneum
+-   Stratum corneum
 
--    Stratum lucidum *(not in thin skin)*
+-   Stratum lucidum *(not in thin skin)*
 
--    Stratum granulosum
+-   Stratum granulosum
 
--    Stratum spinosum
+-   Stratum spinosum
 
--    Stratum basale
+-   Stratum basale
 
 **Accessory structures (four):**
 
--    Hair follicle
+-   Hair follicle
 
--    Sebaceous gland
+-   Sebaceous gland
 
--    Sweat gland
+-   Sweat gland
 
--    Sensory receptors
+-   Sensory receptors
 
 ## Post Lab Activity 5.3 — Crossword Answers
 
 **Across**
 
--    7 Reticular layer
+-   7 Reticular layer
 
--    8 Stratum granulosum
+-   8 Stratum granulosum
 
--    9 Epidermis
+-   9 Epidermis
 
 **Down**
 
--    1 Stratum corneum
+-   1 Stratum corneum
 
--    2 Papillary layer
+-   2 Papillary layer
 
--    3 Hypodermis
+-   3 Hypodermis
 
--    4 Stratum spinosum
+-   4 Stratum spinosum
 
--    5 Stratum basale
+-   5 Stratum basale
 
--    6 Stratum lucidum
+-   6 Stratum lucidum
 
 ✅ **End of Chapter 5**
