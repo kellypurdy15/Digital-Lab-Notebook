@@ -5,6 +5,7 @@ book:
   title: "Digital Lab Notebook"
   author: "Kelly Purdy"
   chapters:
+    - index.qmd
     - chapter-01.qmd
     - chapter-02.qmd
     - chapter-03.qmd

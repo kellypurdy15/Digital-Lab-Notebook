@@ -44,25 +44,25 @@ Condenser
 
 ### **Identification of Microscope Parts**
 
-1.   Ocular lens
+1.  Ocular lens
 
-2.   Head
+2.  Head
 
-3.   Revolving nosepiece (turret)
+3.  Revolving nosepiece (turret)
 
-4.   Objective lenses
+4.  Objective lenses
 
-5.   Mechanical stage
+5.  Mechanical stage
 
-6.   Arm
+6.  Arm
 
-7.   Coarse focus knob
+7.  Coarse focus knob
 
-8.   Fine focus knob
+8.  Fine focus knob
 
-9.   Light source (illuminator)
+9.  Light source (illuminator)
 
-10.  Base
+10. Base
 
 ## **Prelab Activity 2.2**
 
@@ -125,39 +125,39 @@ Condenser
 
 ### **Letter “e” Exercise**
 
--    The image through the microscope is **upside down and reversed**
+-   The image through the microscope is **upside down and reversed**
 
--    The magnified “e” appears inverted compared to the unaided view
+-   The magnified “e” appears inverted compared to the unaided view
 
 ### **Depth of Field — Colored Threads**
 
--    More adjustment is required at **higher magnification**
+-   More adjustment is required at **higher magnification**
 
--    Under high power, **not all threads are in focus at once**
+-   Under high power, **not all threads are in focus at once**
 
--    This shows that **depth of field decreases as magnification increases**
+-   This shows that **depth of field decreases as magnification increases**
 
 ## **Examining Tissues**
 
 Slides were examined at:
 
--    40X
+-   40X
 
--    100X
+-   100X
 
--    400X
+-   400X
 
 ## **Troubleshooting Summary**
 
--    Dark image → adjust diaphragm and rheostat
+-   Dark image → adjust diaphragm and rheostat
 
--    Cannot focus → return to scanning lens and refocus
+-   Cannot focus → return to scanning lens and refocus
 
--    Spots in field → clean lenses
+-   Spots in field → clean lenses
 
--    Half‑moon view → objective not fully engaged
+-   Half‑moon view → objective not fully engaged
 
--    Eyestrain → adjust ocular distance and light intensity
+-   Eyestrain → adjust ocular distance and light intensity
 
 -   
 
